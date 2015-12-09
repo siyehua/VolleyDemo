@@ -20,6 +20,7 @@ public class MainActivity extends BaseActivity {
         });
     }
 
+
     @Override
     protected void getDataSuccess(String requestId, String result) {
         //switch different request
